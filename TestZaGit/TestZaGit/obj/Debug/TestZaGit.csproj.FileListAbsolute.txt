@@ -1,0 +1,7 @@
+E:\Rpa2021Izredni\TestZaGit\TestZaGit\bin\Debug\TestZaGit.exe.config
+E:\Rpa2021Izredni\TestZaGit\TestZaGit\bin\Debug\TestZaGit.exe
+E:\Rpa2021Izredni\TestZaGit\TestZaGit\bin\Debug\TestZaGit.pdb
+E:\Rpa2021Izredni\TestZaGit\TestZaGit\obj\Debug\TestZaGit.csprojAssemblyReference.cache
+E:\Rpa2021Izredni\TestZaGit\TestZaGit\obj\Debug\TestZaGit.csproj.CoreCompileInputs.cache
+E:\Rpa2021Izredni\TestZaGit\TestZaGit\obj\Debug\TestZaGit.exe
+E:\Rpa2021Izredni\TestZaGit\TestZaGit\obj\Debug\TestZaGit.pdb

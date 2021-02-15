@@ -1,0 +1,7 @@
+E:\Rpa2021Izredni\PrimerDelegati\PrimerDelegati\bin\Debug\PrimerDelegati.exe.config
+E:\Rpa2021Izredni\PrimerDelegati\PrimerDelegati\bin\Debug\PrimerDelegati.exe
+E:\Rpa2021Izredni\PrimerDelegati\PrimerDelegati\bin\Debug\PrimerDelegati.pdb
+E:\Rpa2021Izredni\PrimerDelegati\PrimerDelegati\obj\Debug\PrimerDelegati.csprojAssemblyReference.cache
+E:\Rpa2021Izredni\PrimerDelegati\PrimerDelegati\obj\Debug\PrimerDelegati.csproj.CoreCompileInputs.cache
+E:\Rpa2021Izredni\PrimerDelegati\PrimerDelegati\obj\Debug\PrimerDelegati.exe
+E:\Rpa2021Izredni\PrimerDelegati\PrimerDelegati\obj\Debug\PrimerDelegati.pdb
